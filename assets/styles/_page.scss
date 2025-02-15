@@ -1,0 +1,15 @@
+.page {
+  max-width: 80vw;
+  margin: auto;
+  overflow-y: auto;
+  padding: var(--xxl) var(--xl);
+
+  &__backToHome {
+    display: flex;
+    align-items: center;
+    gap: var(--xs);
+    font-size: var(--font-size-small);
+    color: var(--accent);
+    padding-top: var(--lg);
+  }
+}

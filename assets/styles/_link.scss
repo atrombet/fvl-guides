@@ -1,0 +1,12 @@
+a {
+  color: var(--accent-lighter);
+
+  &.accent {
+    color: var(--accent);
+  }
+}
+
+.button-link {
+  color: unset;
+  text-decoration: none;
+}

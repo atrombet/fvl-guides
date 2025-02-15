@@ -1,0 +1,18 @@
+.cap, .careers, .contact {
+  & h1, h2, h3 {
+    color: var(--accent-lighter);
+  }
+
+  & p, li {
+    color: var(--gray-lightest);
+  }
+}
+
+h4 {
+  color: var(--gray-lighter);
+  font-weight: var(--font-weight-normal);
+}
+
+p {
+  color: var(--text-color-light);
+}
