@@ -5,3 +5,10 @@ ul, li {
     color: var(--accent);
   }
 }
+
+@media screen and (max-width: 600px) {
+  ul {
+    padding-inline-start: var(--lg);
+  }
+}
+
