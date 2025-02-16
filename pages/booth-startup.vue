@@ -9,6 +9,10 @@
     <h2>Lights</h2>
     <ul>
       <li>
+        <h3>Turn on the stage light breakers</h3>
+        <p>In the electrical closet next to the door to Rock Kids.</p>
+      </li>
+      <li>
         <h3>Turn on Lighting Mac</h3>
         <p>Vista 3 will automatically open on startup.</p>
       </li>
