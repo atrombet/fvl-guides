@@ -1,8 +1,8 @@
 ul, li {
-  list-style-type: disclosure-closed;
+  // list-style-type: disclosure-closed;
 
   &::marker {
-    color: var(--accent);
+    color: var(--accent-light);
   }
 }
 
