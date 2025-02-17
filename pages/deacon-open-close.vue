@@ -31,20 +31,20 @@
 
     <li><h3>Walk the building and ensure everything looks in order</h3></li>
     <ul>
-      <li>
+      <li class="mb-md">
         Report any issues to the following pastors via text or to one of them in
         person. Work with pastors to resolve any issues.
       </li>
       <ul>
-        <li class="mb-sm">
+        <li class="mb-md">
           Mike Coons
-          <a href="tel:2569752097">
+          <a href="sms:2569752097">
             <button outlined small>(256) 975-2097</button>
           </a>
         </li>
-        <li class="mb-sm">
+        <li class="mb-md">
           Traci Tidmore
-          <a href="tel:2566581902">
+          <a href="sms:2566581902">
             <button outlined small>(256) 658-1902</button>
           </a>
         </li>
