@@ -40,21 +40,23 @@
         <img src="/img/switcher.jpg" alt="Sanctuary Switcher" />
       </li>
       <li>
-        <h3>Turn on the External Switcher</h3>
-      </li>
-      <li>
         <h3>Turn on the Video Rack</h3>
       </li>
       <li>
         <h3>Turn on the Multiview TV</h3>
         <p>
-          Set the input to <code>HDMI 1</code> using the remote velco'ed to the
+          Set the input to <code>HDMI 1</code> using the remote velcro'ed to the
           back to set the TV
         </p>
       </li>
       <li>
         <h3>Turn on ProPresenter Mac</h3>
         <p>ProPresenter will automatically open on startup.</p>
+        <p>
+          The <strong>External Switcher</strong> (for the sending video to the
+          TVs throughout the building) is powered from this computer. It will
+          come on automatically.
+        </p>
       </li>
       <li>
         <h3>Plug in the Live Camera to turn it on</h3>
